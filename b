@@ -1,2 +1,2 @@
 FIX: Bug
-   : Unnoticed bug source
+Fix: Unnoticed bug source
